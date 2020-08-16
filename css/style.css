@@ -1,0 +1,60 @@
+.desc
+{
+    background-color: #EEE;
+    width: 97%;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.desc input
+{
+    width: 80%;
+    margin-left: 10%;
+}
+
+hr
+{
+    background-color: #999;
+}
+
+.desc h2
+{
+    font-size: 1.6rem;
+    font-weight: 650;
+}
+
+.desc label
+{
+    font-weight: 650;
+}
+
+#bookmarker h3, p
+{
+    color: #AAA;
+    padding-left: 1rem;
+    font-weight: 700;
+}
+
+/*--------------------------------site section----------------------------*/
+
+.site
+{
+    background-image: linear-gradient(#eee, #fff);
+    width: 97%;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 40px 20px;
+}
+
+.site h2
+{
+    font-size: 1.6rem;
+    width: 30%;
+    font-weight: 500;
+}
+
+.site .visit
+{
+    height: 100%;
+}
